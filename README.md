@@ -1,4 +1,10 @@
+Perfect! I can see the issue. The image paths in your README.md are incorrect. Let me help you fix them by using the correct relative paths to your visualization files.
 
+## 🔧 UPDATING README.MD WITH CORRECT IMAGE PATHS
+
+Here's the corrected README.md with the proper image paths:
+
+```markdown
 # EuroPovertyMapper 🌍📊
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
@@ -11,7 +17,7 @@ A comprehensive Python tool for analyzing and visualizing poverty risk across Eu
 
 EuroPovertyMapper processes real-time Eurostat data to generate high-quality visualizations of poverty risk across European NUTS2 regions. The project combines geospatial analysis, statistical processing, and professional visualization to provide insights into European social inequality patterns.
 
-![Summary Visualization](comprehensive_dashboard.png)
+![Summary Visualization](outputs/visualizations/comprehensive_dashboard.png)
 
 ## ✨ Features
 
@@ -79,14 +85,15 @@ EUROPEAN POVERTY RISK ANALYSIS
 
 | Analysis Type | Visualization | Key Insights |
 |---------------|---------------|--------------|
-| **Temporal Trends** | ![Temporal Trends](temporal_trends.png) | Multi-year poverty rate evolution |
-| **Inequality Analysis** | ![Inequality](inequality_analysis.png) | Gini coefficient and Lorenz curve |
-| **Country Comparison** | ![Country Comparison](country_comparison.png) | Cross-country poverty risk rankings |
-| **Distribution Analysis** | ![Distribution](distribution_analysis.png) | Statistical distribution and normality tests |
-| **Correlation Matrix** | ![Correlation](correlation_matrix.png) | Spatial and variable relationships |
-| **Clustering Analysis** | ![Clustering](clustering_analysis.png) | Regional pattern identification |
-| **Spatial Analysis** | ![Spatial](spatial_autocorrelation.png) | Geographic patterns and autocorrelation |
-| **Hotspot Analysis** | ![Hotspots](hotspot_analysis.png) | Poverty risk hotspots and coldspots |
+| **Temporal Trends** | ![Temporal Trends](outputs/visualizations/temporal_trends.png) | Multi-year poverty rate evolution |
+| **Inequality Analysis** | ![Inequality](outputs/visualizations/inequality_analysis.png) | Gini coefficient and Lorenz curve |
+| **Country Comparison** | ![Country Comparison](outputs/visualizations/country_comparison.png) | Cross-country poverty risk rankings |
+| **Distribution Analysis** | ![Distribution](outputs/visualizations/distribution_analysis.png) | Statistical distribution and normality tests |
+| **Correlation Matrix** | ![Correlation](outputs/visualizations/correlation_matrix.png) | Spatial and variable relationships |
+| **Clustering Analysis** | ![Clustering](outputs/visualizations/clustering_analysis.png) | Regional pattern identification |
+| **Spatial Analysis** | ![Spatial](outputs/visualizations/spatial_autocorrelation.png) | Geographic patterns and autocorrelation |
+| **Hotspot Analysis** | ![Hotspots](outputs/visualizations/hotspot_analysis.png) | Poverty risk hotspots and coldspots |
+| **Clean Spaced Map** | ![Clean Map](outputs/visualizations/clean_spaced_map_20251109_211840.png) | Professional geographical visualization |
 
 ### Risk Category Distribution
 - 🔵 Very Low Risk (<12.5%): 9.2% of regions
@@ -125,21 +132,32 @@ EuroPovertyMapper/
 │   ├── spatial_analyzer.py  # Geospatial operations
 │   ├── visualizer.py        # Map generation
 │   └── analyzer.py          # Statistical analysis
-├── outputs/                 # Generated analyses
-│   ├── comprehensive_dashboard.png
-│   ├── inequality_analysis.png
-│   ├── country_comparison.png
-│   ├── clustering_analysis.png
-│   └── temporal_trends.png
-├── data/
-│   ├── comprehensive_poverty_data_20251109_224446.csv
-│   ├── country_statistics_20251109_224446.csv
-│   └── analysis_summary_20251109_224446.csv
+├── outputs/
+│   ├── visualizations/      # All generated plots
+│   │   ├── comprehensive_dashboard.png
+│   │   ├── inequality_analysis.png
+│   │   ├── country_comparison.png
+│   │   ├── clustering_analysis.png
+│   │   ├── temporal_trends.png
+│   │   ├── distribution_analysis.png
+│   │   ├── correlation_matrix.png
+│   │   ├── spatial_autocorrelation.png
+│   │   ├── hotspot_analysis.png
+│   │   └── clean_spaced_map_20251109_211840.png
+│   ├── data/               # Processed datasets
+│   │   ├── comprehensive_poverty_data_20251109_224446.csv
+│   │   ├── country_statistics_20251109_224446.csv
+│   │   └── analysis_summary_20251109_224446.csv
+│   └── maps/               # Interactive HTML maps
 ├── examples/
-│   ├── basic_usage.ipynb
-│   └── advanced_analysis.ipynb
+│   └── Eu Poverty MAp.ipynb
+├── docs/
+│   ├── analysis_summary.txt
+│   └── policy_recommendations.txt
 ├── tests/
-└── docs/
+├── requirements.txt
+├── setup.py
+└── README.md
 ```
 
 ## 🎨 Visualization Styles
@@ -209,10 +227,10 @@ python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install development dependencies
-pip install -r requirements-dev.txt
+pip install -r requirements.txt
 
-# Run tests
-pytest tests/
+# Run the example notebook
+jupyter notebook examples/Eu\ Poverty\ MAp.ipynb
 ```
 
 ## 📄 License
@@ -247,5 +265,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Understanding inequality through data visualization*
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zafariabbas68/EuroPovertyMapper&type=Date)](https://star-history.com/#zafariabbas68/EuroPovertyMapper&Date)
+```
 
 
