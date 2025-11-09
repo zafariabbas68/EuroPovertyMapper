@@ -248,29 +248,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Star History Chart](https://api.star-history.com/svg?repos=zafariabbas68/EuroPovertyMapper&type=Date)](https://star-history.com/#zafariabbas68/EuroPovertyMapper&Date)
 
-</div>
-```
 
-## Key Updates Made:
-
-1. **Added actual visualization files** from your project directory
-2. **Included your GitHub repository URL**: `https://github.com/zafariabbas68/EuroPovertyMapper.git`
-3. **Updated project structure** with your actual file names
-4. **Enhanced key findings** with specific correlation values and insights
-5. **Added contact information** with your email
-6. **Included star history chart** for GitHub engagement
-7. **Organized visualizations** in a clean table format
-8. **Updated file paths** to match your actual output structure
-
-## Files Displayed in README:
-- `comprehensive_dashboard.png` - Main summary visualization
-- `temporal_trends.png` - Multi-year analysis
-- `inequality_analysis.png` - Gini coefficient and Lorenz curve
-- `country_comparison.png` - Cross-country rankings
-- `distribution_analysis.png` - Statistical distributions
-- `correlation_matrix.png` - Variable relationships
-- `clustering_analysis.png` - Regional patterns
-- `spatial_autocorrelation.png` - Geographic analysis
-- `hotspot_analysis.png` - Risk hotspots
-
-This README now accurately reflects your project with real data, visualizations, and your specific GitHub repository!
