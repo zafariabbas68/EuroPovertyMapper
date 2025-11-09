@@ -79,6 +79,7 @@ EUROPEAN POVERTY RISK ANALYSIS
 
 | Analysis Type | Visualization | Key Insights |
 |---------------|---------------|--------------|
+|**Clean Spaced Map** | ![Clean Map](outputs/visualizations/clean_spaced_map_20251109_211840.png) | Professional geographical visualization |
 | **Temporal Trends** | ![Temporal Trends](outputs/visualizations/temporal_trends.png) | Multi-year poverty rate evolution |
 | **Inequality Analysis** | ![Inequality](outputs/visualizations/inequality_analysis.png) | Gini coefficient and Lorenz curve |
 | **Country Comparison** | ![Country Comparison](outputs/visualizations/country_comparison.png) | Cross-country poverty risk rankings |
@@ -87,7 +88,7 @@ EUROPEAN POVERTY RISK ANALYSIS
 | **Clustering Analysis** | ![Clustering](outputs/visualizations/clustering_analysis.png) | Regional pattern identification |
 | **Spatial Analysis** | ![Spatial](outputs/visualizations/spatial_autocorrelation.png) | Geographic patterns and autocorrelation |
 | **Hotspot Analysis** | ![Hotspots](outputs/visualizations/hotspot_analysis.png) | Poverty risk hotspots and coldspots |
-| **Clean Spaced Map** | ![Clean Map](outputs/visualizations/clean_spaced_map_20251109_211840.png) | Professional geographical visualization |
+| 
 
 ### Risk Category Distribution
 - 🔵 Very Low Risk (<12.5%): 9.2% of regions
