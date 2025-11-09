@@ -11,7 +11,7 @@ A comprehensive Python tool for analyzing and visualizing poverty risk across Eu
 
 EuroPovertyMapper processes real-time Eurostat data to generate high-quality visualizations of poverty risk across European NUTS2 regions. The project combines geospatial analysis, statistical processing, and professional visualization to provide insights into European social inequality patterns.
 |**Clean Spaced Map** | ![Clean Map](outputs/visualizations/clean_spaced_map_20251109_211840.png) | Professional geographical visualization |
-![Summary Visualization](outputs/visualizations/comprehensive_dashboard.png)
+
 
 ## ✨ Features
 
@@ -87,7 +87,7 @@ EUROPEAN POVERTY RISK ANALYSIS
 | **Clustering Analysis** | ![Clustering](outputs/visualizations/clustering_analysis.png) | Regional pattern identification |
 | **Spatial Analysis** | ![Spatial](outputs/visualizations/spatial_autocorrelation.png) | Geographic patterns and autocorrelation |
 | **Hotspot Analysis** | ![Hotspots](outputs/visualizations/hotspot_analysis.png) | Poverty risk hotspots and coldspots |
-| 
+| ![Summary Visualization](outputs/visualizations/comprehensive_dashboard.png)
 
 ### Risk Category Distribution
 - 🔵 Very Low Risk (<12.5%): 9.2% of regions
