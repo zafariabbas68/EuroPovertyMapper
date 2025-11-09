@@ -1,0 +1,328 @@
+NUTS_ID,poverty_rate,category,country,country_code,risk_category
+AT1,20.0,19.5 – < 25.0,AT,AT,Medium-High
+AT11,10.0,< 12.5,AT,AT,Very Low
+AT12,12.4,< 12.5,AT,AT,Very Low
+AT13,28.2,25.0 – < 33.0,AT,AT,High
+AT2,14.8,12.5 – < 15.5,AT,AT,Low
+AT21,15.7,15.5 – < 19.5,AT,AT,Medium-Low
+AT22,14.4,12.5 – < 15.5,AT,AT,Low
+AT3,14.3,12.5 – < 15.5,AT,AT,Low
+AT31,15.0,12.5 – < 15.5,AT,AT,Low
+AT32,11.1,< 12.5,AT,AT,Very Low
+AT33,13.4,12.5 – < 15.5,AT,AT,Low
+AT34,17.9,15.5 – < 19.5,AT,AT,Medium-Low
+BE1,37.3,≥ 33.0,BE,BE,Very High
+BE10,37.3,≥ 33.0,BE,BE,Very High
+BE2,12.9,12.5 – < 15.5,BE,BE,Low
+BE21,15.9,15.5 – < 19.5,BE,BE,Medium-Low
+BE22,11.7,< 12.5,BE,BE,Very Low
+BE23,13.1,12.5 – < 15.5,BE,BE,Low
+BE24,10.2,< 12.5,BE,BE,Very Low
+BE25,11.2,< 12.5,BE,BE,Very Low
+BE3,21.8,19.5 – < 25.0,BE,BE,Medium-High
+BE31,16.9,15.5 – < 19.5,BE,BE,Medium-Low
+BE32,26.7,25.0 – < 33.0,BE,BE,High
+BE33,20.5,19.5 – < 25.0,BE,BE,Medium-High
+BE34,17.7,15.5 – < 19.5,BE,BE,Medium-Low
+BE35,17.8,15.5 – < 19.5,BE,BE,Medium-Low
+BG3,33.5,≥ 33.0,BG,BG,Very High
+BG31,35.8,≥ 33.0,BG,BG,Very High
+BG32,36.6,≥ 33.0,BG,BG,Very High
+BG33,26.3,25.0 – < 33.0,BG,BG,High
+BG34,35.8,≥ 33.0,BG,BG,Very High
+BG4,27.3,25.0 – < 33.0,BG,BG,High
+BG41,20.1,19.5 – < 25.0,BG,BG,Medium-High
+BG42,38.3,≥ 33.0,BG,BG,Very High
+CH01,24.5,19.5 – < 25.0,CH,CH,Medium-High
+CH02,19.1,15.5 – < 19.5,CH,CH,Medium-Low
+CH03,21.2,19.5 – < 25.0,CH,CH,Medium-High
+CH04,14.7,12.5 – < 15.5,CH,CH,Low
+CH05,16.2,15.5 – < 19.5,CH,CH,Medium-Low
+CH06,13.7,12.5 – < 15.5,CH,CH,Low
+CH07,33.1,≥ 33.0,CH,CH,Very High
+CZ01,11.7,< 12.5,CZ,CZ,Very Low
+CZ02,11.0,< 12.5,CZ,CZ,Very Low
+CZ03,8.8,< 12.5,CZ,CZ,Very Low
+CZ04,12.5,12.5 – < 15.5,CZ,CZ,Low
+CZ05,9.5,< 12.5,CZ,CZ,Very Low
+CZ06,10.0,< 12.5,CZ,CZ,Very Low
+CZ07,11.7,< 12.5,CZ,CZ,Very Low
+CZ08,16.3,15.5 – < 19.5,CZ,CZ,Medium-Low
+DE1,18.8,15.5 – < 19.5,DE,DE,Medium-Low
+DE11,19.9,19.5 – < 25.0,DE,DE,Medium-High
+DE12,19.4,15.5 – < 19.5,DE,DE,Medium-Low
+DE13,17.4,15.5 – < 19.5,DE,DE,Medium-Low
+DE14,17.1,15.5 – < 19.5,DE,DE,Medium-Low
+DE2,15.2,12.5 – < 15.5,DE,DE,Low
+DE21,15.0,12.5 – < 15.5,DE,DE,Low
+DE22,15.3,12.5 – < 15.5,DE,DE,Low
+DE23,13.0,12.5 – < 15.5,DE,DE,Low
+DE24,15.1,12.5 – < 15.5,DE,DE,Low
+DE25,19.4,15.5 – < 19.5,DE,DE,Medium-Low
+DE26,14.7,12.5 – < 15.5,DE,DE,Low
+DE27,13.7,12.5 – < 15.5,DE,DE,Low
+DE3,21.5,19.5 – < 25.0,DE,DE,Medium-High
+DE30,21.5,19.5 – < 25.0,DE,DE,Medium-High
+DE4,19.3,15.5 – < 19.5,DE,DE,Medium-Low
+DE40,19.3,15.5 – < 19.5,DE,DE,Medium-Low
+DE5,34.9,≥ 33.0,DE,DE,Very High
+DE50,34.9,≥ 33.0,DE,DE,Very High
+DE6,24.5,19.5 – < 25.0,DE,DE,Medium-High
+DE60,24.5,19.5 – < 25.0,DE,DE,Medium-High
+DE7,22.5,19.5 – < 25.0,DE,DE,Medium-High
+DE71,20.8,19.5 – < 25.0,DE,DE,Medium-High
+DE72,25.8,25.0 – < 33.0,DE,DE,High
+DE73,25.4,25.0 – < 33.0,DE,DE,High
+DE8,22.4,19.5 – < 25.0,DE,DE,Medium-High
+DE80,22.4,19.5 – < 25.0,DE,DE,Medium-High
+DE9,23.4,19.5 – < 25.0,DE,DE,Medium-High
+DE91,21.5,19.5 – < 25.0,DE,DE,Medium-High
+DE92,23.4,19.5 – < 25.0,DE,DE,Medium-High
+DE93,20.8,19.5 – < 25.0,DE,DE,Medium-High
+DE94,26.2,25.0 – < 33.0,DE,DE,High
+DEA,24.0,19.5 – < 25.0,DE,DE,Medium-High
+DEA1,22.5,19.5 – < 25.0,DE,DE,Medium-High
+DEA2,23.0,19.5 – < 25.0,DE,DE,Medium-High
+DEA3,27.8,25.0 – < 33.0,DE,DE,High
+DEA4,23.6,19.5 – < 25.0,DE,DE,Medium-High
+DEA5,25.1,25.0 – < 33.0,DE,DE,High
+DEB,22.0,19.5 – < 25.0,DE,DE,Medium-High
+DEB1,20.4,19.5 – < 25.0,DE,DE,Medium-High
+DEB2,21.8,19.5 – < 25.0,DE,DE,Medium-High
+DEB3,23.2,19.5 – < 25.0,DE,DE,Medium-High
+DEC,21.9,19.5 – < 25.0,DE,DE,Medium-High
+DEC0,21.9,19.5 – < 25.0,DE,DE,Medium-High
+DED,19.8,19.5 – < 25.0,DE,DE,Medium-High
+DED2,17.5,15.5 – < 19.5,DE,DE,Medium-Low
+DED4,19.8,19.5 – < 25.0,DE,DE,Medium-High
+DED5,23.3,19.5 – < 25.0,DE,DE,Medium-High
+DEE,25.9,25.0 – < 33.0,DE,DE,High
+DEE0,25.9,25.0 – < 33.0,DE,DE,High
+DEF,19.8,19.5 – < 25.0,DE,DE,Medium-High
+DEF0,19.8,19.5 – < 25.0,DE,DE,Medium-High
+DEG,22.2,19.5 – < 25.0,DE,DE,Medium-High
+DEG0,22.2,19.5 – < 25.0,DE,DE,Medium-High
+DK01,17.1,15.5 – < 19.5,DK,DK,Medium-Low
+DK02,15.1,12.5 – < 15.5,DK,DK,Low
+DK03,18.5,15.5 – < 19.5,DK,DK,Medium-Low
+DK04,19.7,19.5 – < 25.0,DK,DK,Medium-High
+DK05,20.3,19.5 – < 25.0,DK,DK,Medium-High
+EL3,22.7,19.5 – < 25.0,EL,EL,Medium-High
+EL30,22.7,19.5 – < 25.0,EL,EL,Medium-High
+EL4,22.9,19.5 – < 25.0,EL,EL,Medium-High
+EL41,33.2,≥ 33.0,EL,EL,Very High
+EL42,20.3,19.5 – < 25.0,EL,EL,Medium-High
+EL43,20.7,19.5 – < 25.0,EL,EL,Medium-High
+EL5,30.8,25.0 – < 33.0,EL,EL,High
+EL51,33.8,≥ 33.0,EL,EL,Very High
+EL52,31.0,25.0 – < 33.0,EL,EL,High
+EL53,36.3,≥ 33.0,EL,EL,Very High
+EL54,19.6,19.5 – < 25.0,EL,EL,Medium-High
+EL6,30.8,25.0 – < 33.0,EL,EL,High
+EL61,25.8,25.0 – < 33.0,EL,EL,High
+EL62,41.4,≥ 33.0,EL,EL,Very High
+EL63,35.2,≥ 33.0,EL,EL,Very High
+EL64,25.7,25.0 – < 33.0,EL,EL,High
+EL65,32.3,25.0 – < 33.0,EL,EL,High
+ES1,19.8,19.5 – < 25.0,ES,ES,Medium-High
+ES11,18.8,15.5 – < 19.5,ES,ES,Medium-Low
+ES12,20.9,19.5 – < 25.0,ES,ES,Medium-High
+ES13,22.2,19.5 – < 25.0,ES,ES,Medium-High
+ES2,17.7,15.5 – < 19.5,ES,ES,Medium-Low
+ES21,14.8,12.5 – < 15.5,ES,ES,Low
+ES22,18.3,15.5 – < 19.5,ES,ES,Medium-Low
+ES23,22.6,19.5 – < 25.0,ES,ES,Medium-High
+ES24,21.0,19.5 – < 25.0,ES,ES,Medium-High
+ES3,20.9,19.5 – < 25.0,ES,ES,Medium-High
+ES30,20.9,19.5 – < 25.0,ES,ES,Medium-High
+ES4,29.5,25.0 – < 33.0,ES,ES,High
+ES41,24.0,19.5 – < 25.0,ES,ES,Medium-High
+ES42,34.2,≥ 33.0,ES,ES,Very High
+ES43,32.4,25.0 – < 33.0,ES,ES,High
+ES5,23.5,19.5 – < 25.0,ES,ES,Medium-High
+ES51,20.5,19.5 – < 25.0,ES,ES,Medium-High
+ES52,29.9,25.0 – < 33.0,ES,ES,High
+ES53,16.2,15.5 – < 19.5,ES,ES,Medium-Low
+ES6,35.3,≥ 33.0,ES,ES,Very High
+ES61,35.6,≥ 33.0,ES,ES,Very High
+ES62,32.4,25.0 – < 33.0,ES,ES,High
+ES63,42.2,≥ 33.0,ES,ES,Very High
+ES64,44.5,≥ 33.0,ES,ES,Very High
+ES7,31.2,25.0 – < 33.0,ES,ES,High
+ES70,31.2,25.0 – < 33.0,ES,ES,High
+FI1,16.8,15.5 – < 19.5,FI,FI,Medium-Low
+FI1B,15.0,12.5 – < 15.5,FI,FI,Low
+FI1C,16.7,15.5 – < 19.5,FI,FI,Medium-Low
+FI1D,16.5,15.5 – < 19.5,FI,FI,Medium-Low
+FR1,19.9,19.5 – < 25.0,FR,FR,Medium-High
+FR10,19.9,19.5 – < 25.0,FR,FR,Medium-High
+FRB,16.0,15.5 – < 19.5,FR,FR,Medium-Low
+FRB0,16.0,15.5 – < 19.5,FR,FR,Medium-Low
+FRC,18.5,15.5 – < 19.5,FR,FR,Medium-Low
+FRC1,19.0,15.5 – < 19.5,FR,FR,Medium-Low
+FRC2,18.0,15.5 – < 19.5,FR,FR,Medium-Low
+FRD,18.7,15.5 – < 19.5,FR,FR,Medium-Low
+FRD1,17.7,15.5 – < 19.5,FR,FR,Medium-Low
+FRD2,19.5,19.5 – < 25.0,FR,FR,Medium-High
+FRE,25.6,25.0 – < 33.0,FR,FR,High
+FRE1,26.6,25.0 – < 33.0,FR,FR,High
+FRE2,23.6,19.5 – < 25.0,FR,FR,Medium-High
+FRF,20.8,19.5 – < 25.0,FR,FR,Medium-High
+FRF1,17.0,15.5 – < 19.5,FR,FR,Medium-Low
+FRF2,21.8,19.5 – < 25.0,FR,FR,Medium-High
+FRF3,23.6,19.5 – < 25.0,FR,FR,Medium-High
+FRG,17.1,15.5 – < 19.5,FR,FR,Medium-Low
+FRG0,17.1,15.5 – < 19.5,FR,FR,Medium-Low
+FRH,14.6,12.5 – < 15.5,FR,FR,Low
+FRH0,14.6,12.5 – < 15.5,FR,FR,Low
+FRI,18.7,15.5 – < 19.5,FR,FR,Medium-Low
+FRI1,18.4,15.5 – < 19.5,FR,FR,Medium-Low
+FRI2,20.8,19.5 – < 25.0,FR,FR,Medium-High
+FRI3,18.7,15.5 – < 19.5,FR,FR,Medium-Low
+FRJ,23.8,19.5 – < 25.0,FR,FR,Medium-High
+FRJ1,26.7,25.0 – < 33.0,FR,FR,High
+FRJ2,21.0,19.5 – < 25.0,FR,FR,Medium-High
+FRK,18.0,15.5 – < 19.5,FR,FR,Medium-Low
+FRK1,19.4,15.5 – < 19.5,FR,FR,Medium-Low
+FRK2,17.7,15.5 – < 19.5,FR,FR,Medium-Low
+FRL,21.8,19.5 – < 25.0,FR,FR,Medium-High
+FRL0,21.8,19.5 – < 25.0,FR,FR,Medium-High
+FRM,24.9,19.5 – < 25.0,FR,FR,Medium-High
+FRM0,24.9,19.5 – < 25.0,FR,FR,Medium-High
+FRY,40.6,≥ 33.0,FR,FR,Very High
+FRY1,39.4,≥ 33.0,FR,FR,Very High
+FRY2,30.1,25.0 – < 33.0,FR,FR,High
+FRY3,59.5,≥ 33.0,FR,FR,Very High
+FRY4,39.4,≥ 33.0,FR,FR,Very High
+HR02,31.0,25.0 – < 33.0,HR,HR,High
+HR03,22.9,19.5 – < 25.0,HR,HR,Medium-High
+HR05,11.1,< 12.5,HR,HR,Very Low
+HR06,18.3,15.5 – < 19.5,HR,HR,Medium-Low
+HU1,15.1,12.5 – < 15.5,HU,HU,Low
+HU11,11.1,< 12.5,HU,HU,Very Low
+HU12,20.0,19.5 – < 25.0,HU,HU,Medium-High
+HU2,14.7,12.5 – < 15.5,HU,HU,Low
+HU21,10.2,< 12.5,HU,HU,Very Low
+HU22,11.6,< 12.5,HU,HU,Very Low
+HU23,23.7,19.5 – < 25.0,HU,HU,Medium-High
+HU3,26.3,25.0 – < 33.0,HU,HU,High
+HU31,28.8,25.0 – < 33.0,HU,HU,High
+HU32,28.0,25.0 – < 33.0,HU,HU,High
+HU33,22.0,19.5 – < 25.0,HU,HU,Medium-High
+IE04,22.2,19.5 – < 25.0,IE,IE,Medium-High
+IE05,16.6,15.5 – < 19.5,IE,IE,Medium-Low
+IE06,15.6,15.5 – < 19.5,IE,IE,Medium-Low
+ITC,13.9,12.5 – < 15.5,IT,IT,Low
+ITC1,13.5,12.5 – < 15.5,IT,IT,Low
+ITC2,10.7,< 12.5,IT,IT,Very Low
+ITC3,13.8,12.5 – < 15.5,IT,IT,Low
+ITC4,14.1,12.5 – < 15.5,IT,IT,Low
+ITF,39.8,≥ 33.0,IT,IT,Very High
+ITF1,25.1,25.0 – < 33.0,IT,IT,High
+ITF2,27.5,25.0 – < 33.0,IT,IT,High
+ITF3,43.5,≥ 33.0,IT,IT,Very High
+ITF4,37.7,≥ 33.0,IT,IT,Very High
+ITF5,25.4,25.0 – < 33.0,IT,IT,High
+ITF6,48.8,≥ 33.0,IT,IT,Very High
+ITG,38.1,≥ 33.0,IT,IT,Very High
+ITG1,40.9,≥ 33.0,IT,IT,Very High
+ITG2,29.6,25.0 – < 33.0,IT,IT,High
+ITH,11.2,< 12.5,IT,IT,Very Low
+ITH1,6.6,< 12.5,IT,IT,Very Low
+ITH2,11.0,< 12.5,IT,IT,Very Low
+ITH3,12.4,< 12.5,IT,IT,Very Low
+ITH4,12.4,< 12.5,IT,IT,Very Low
+ITH5,10.1,< 12.5,IT,IT,Very Low
+ITI,19.9,19.5 – < 25.0,IT,IT,Medium-High
+ITI1,15.2,12.5 – < 15.5,IT,IT,Low
+ITI2,14.0,12.5 – < 15.5,IT,IT,Low
+ITI3,11.8,< 12.5,IT,IT,Very Low
+ITI4,25.8,25.0 – < 33.0,IT,IT,High
+LT01,15.6,15.5 – < 19.5,LT,LT,Medium-Low
+LT02,30.1,25.0 – < 33.0,LT,LT,High
+NL1,17.6,15.5 – < 19.5,NL,NL,Medium-Low
+NL11,21.0,19.5 – < 25.0,NL,NL,Medium-High
+NL12,16.0,15.5 – < 19.5,NL,NL,Medium-Low
+NL13,15.7,15.5 – < 19.5,NL,NL,Medium-Low
+NL2,13.4,12.5 – < 15.5,NL,NL,Low
+NL21,14.6,12.5 – < 15.5,NL,NL,Low
+NL22,12.9,12.5 – < 15.5,NL,NL,Low
+NL23,13.0,12.5 – < 15.5,NL,NL,Low
+NL3,16.0,15.5 – < 19.5,NL,NL,Medium-Low
+NL32,15.8,15.5 – < 19.5,NL,NL,Medium-Low
+NL34,13.7,12.5 – < 15.5,NL,NL,Low
+NL35,12.9,12.5 – < 15.5,NL,NL,Low
+NL36,17.7,15.5 – < 19.5,NL,NL,Medium-Low
+NL4,15.0,12.5 – < 15.5,NL,NL,Low
+NL41,14.4,12.5 – < 15.5,NL,NL,Low
+NL42,16.2,15.5 – < 19.5,NL,NL,Medium-Low
+NO02,19.2,15.5 – < 19.5,NO,NO,Medium-Low
+NO06,19.3,15.5 – < 19.5,NO,NO,Medium-Low
+NO07,13.5,12.5 – < 15.5,NO,NO,Low
+NO08,15.4,12.5 – < 15.5,NO,NO,Low
+NO09,16.5,15.5 – < 19.5,NO,NO,Medium-Low
+NO0A,14.1,12.5 – < 15.5,NO,NO,Low
+PL2,13.2,12.5 – < 15.5,PL,PL,Low
+PL21,17.0,15.5 – < 19.5,PL,PL,Medium-Low
+PL22,10.3,< 12.5,PL,PL,Very Low
+PL4,15.4,12.5 – < 15.5,PL,PL,Low
+PL41,14.7,12.5 – < 15.5,PL,PL,Low
+PL42,18.0,15.5 – < 19.5,PL,PL,Medium-Low
+PL43,13.8,12.5 – < 15.5,PL,PL,Low
+PL5,15.9,15.5 – < 19.5,PL,PL,Medium-Low
+PL51,16.6,15.5 – < 19.5,PL,PL,Medium-Low
+PL52,13.9,12.5 – < 15.5,PL,PL,Low
+PL6,19.7,19.5 – < 25.0,PL,PL,Medium-High
+PL61,20.5,19.5 – < 25.0,PL,PL,Medium-High
+PL62,23.6,19.5 – < 25.0,PL,PL,Medium-High
+PL63,16.9,15.5 – < 19.5,PL,PL,Medium-Low
+PL7,19.0,15.5 – < 19.5,PL,PL,Medium-Low
+PL71,20.2,19.5 – < 25.0,PL,PL,Medium-High
+PL72,16.5,15.5 – < 19.5,PL,PL,Medium-Low
+PL8,19.3,15.5 – < 19.5,PL,PL,Medium-Low
+PL81,18.4,15.5 – < 19.5,PL,PL,Medium-Low
+PL82,16.1,15.5 – < 19.5,PL,PL,Medium-Low
+PL84,26.4,25.0 – < 33.0,PL,PL,High
+PL9,11.7,< 12.5,PL,PL,Very Low
+PL91,8.9,< 12.5,PL,PL,Very Low
+PL92,15.9,15.5 – < 19.5,PL,PL,Medium-Low
+PT11,21.0,19.5 – < 25.0,PT,PT,Medium-High
+PT15,18.7,15.5 – < 19.5,PT,PT,Medium-Low
+PT19,18.9,15.5 – < 19.5,PT,PT,Medium-Low
+PT1A,16.5,15.5 – < 19.5,PT,PT,Medium-Low
+PT1B,21.8,19.5 – < 25.0,PT,PT,Medium-High
+PT1C,18.7,15.5 – < 19.5,PT,PT,Medium-Low
+PT1D,19.1,15.5 – < 19.5,PT,PT,Medium-Low
+PT20,28.4,25.0 – < 33.0,PT,PT,High
+PT30,22.9,19.5 – < 25.0,PT,PT,Medium-High
+RO1,25.2,25.0 – < 33.0,RO,RO,High
+RO11,25.6,25.0 – < 33.0,RO,RO,High
+RO12,24.7,19.5 – < 25.0,RO,RO,Medium-High
+RO2,36.3,≥ 33.0,RO,RO,Very High
+RO21,33.8,≥ 33.0,RO,RO,Very High
+RO22,39.7,≥ 33.0,RO,RO,Very High
+RO3,21.2,19.5 – < 25.0,RO,RO,Medium-High
+RO31,28.8,25.0 – < 33.0,RO,RO,High
+RO32,12.0,< 12.5,RO,RO,Very Low
+RO4,28.4,25.0 – < 33.0,RO,RO,High
+RO41,35.1,≥ 33.0,RO,RO,Very High
+RO42,21.3,19.5 – < 25.0,RO,RO,Medium-High
+RS1,21.1,19.5 – < 25.0,RS,RS,Medium-High
+RS2,27.9,25.0 – < 33.0,RS,RS,High
+SE1,16.3,15.5 – < 19.5,SE,SE,Medium-Low
+SE11,15.4,12.5 – < 15.5,SE,SE,Low
+SE12,17.6,15.5 – < 19.5,SE,SE,Medium-Low
+SE2,18.2,15.5 – < 19.5,SE,SE,Medium-Low
+SE21,16.4,15.5 – < 19.5,SE,SE,Medium-Low
+SE22,21.6,19.5 – < 25.0,SE,SE,Medium-High
+SE23,16.5,15.5 – < 19.5,SE,SE,Medium-Low
+SE3,18.2,15.5 – < 19.5,SE,SE,Medium-Low
+SE31,20.1,19.5 – < 25.0,SE,SE,Medium-High
+SE32,20.7,19.5 – < 25.0,SE,SE,Medium-High
+SE33,13.3,12.5 – < 15.5,SE,SE,Low
+SI03,17.1,15.5 – < 19.5,SI,SI,Medium-Low
+SI04,11.6,< 12.5,SI,SI,Very Low
+SK01,8.6,< 12.5,SK,SK,Very Low
+SK02,15.8,15.5 – < 19.5,SK,SK,Medium-Low
+SK03,18.1,15.5 – < 19.5,SK,SK,Medium-Low
+SK04,25.7,25.0 – < 33.0,SK,SK,High
