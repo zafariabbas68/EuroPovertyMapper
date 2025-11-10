@@ -240,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 📧 **Email**: zafariabbas68@gmail.com
+- 📧 **Email**: ghulamabbas.zafari@gmail.com
 - 🐛 **Issues**: [GitHub Issues](https://github.com/zafariabbas68/EuroPovertyMapper/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/zafariabbas68/EuroPovertyMapper/discussions)
 
